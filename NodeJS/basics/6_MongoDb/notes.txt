@@ -1,0 +1,5 @@
+//Mongo dB 
+
+DB server -> data base => collections => documents => BSON
+
+  SQL noSQL
